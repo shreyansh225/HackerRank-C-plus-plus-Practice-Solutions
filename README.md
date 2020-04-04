@@ -1,1 +1,1 @@
-# HackerRank-C--Practice-Solutions
+# HackerRank-C++-Practice-Solutions
