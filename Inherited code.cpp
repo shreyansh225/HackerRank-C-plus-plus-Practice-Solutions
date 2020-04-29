@@ -51,3 +51,19 @@ int main() {
 	}
 	return 0;
 }
+
+/*
+You are not responsible for directly printing anything to stdout. If your code is correct, the locked stub code in your editor will print either Valid (if the username is valid), Invalid (if the username is invalid), or Too short: n (where  is the length of the too-short username) on a new line for each n test case.
+
+Input (stdin)
+3
+Peter
+Me
+Arxwwz
+
+Output
+
+Valid
+Too short: 2
+Invalid
+*/
