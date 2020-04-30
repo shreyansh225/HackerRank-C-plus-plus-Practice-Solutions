@@ -29,13 +29,13 @@ int main()
 
 /*
 
-  : Add an element  to the set.
-  : Delete an element  from the set. (If the number  is not present in the set, then do nothing).
-  : If the number  is present in the set, then print "Yes"(without quotes) else print "No"(without quotes).
+  1: Add an element x to the set.
+  2: Delete an element x from the set. (If the number  is not present in the set, then do nothing).
+  3: If the number x is present in the set, then print "Yes"(without quotes) else print "No"(without quotes).
   
   Output Format
 
-For queries of type  print "Yes"(without quotes) if the number  is present in the set and if the number is not present, then print "No"(without quotes).
+For queries of type  print "Yes"(without quotes) if the number x is present in the set and if the number is not present,then print "No"(without quotes).
 Each query of type  should be printed in a new line.
 
 Sample Input
