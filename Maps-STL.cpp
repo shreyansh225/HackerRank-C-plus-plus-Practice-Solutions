@@ -32,7 +32,15 @@ int main()
 }
 
 /*
+To know more about maps click Here.
 
+You are appointed as the assistant to a teacher in a school and she is correcting the answer sheets of the students.Each student can have multiple answer sheets.So the teacher has  queries:
+
+X,Y:Add the marks Y to the student whose name is X .
+
+X: Erase the marks of the students whose name is X .
+
+X: Print the marks of the students whose name is X. (If X  didn't get any marks print 0 .)
 
 Sample Input
 
